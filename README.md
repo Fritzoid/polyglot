@@ -1,2 +1,40 @@
 # polyglot
 Same algorithms in different languages
+
+- assembler
+- c
+- c++
+- c#
+- rust
+- go
+- python
+- php
+- perl
+- powershell
+- ruby
+- lua
+- visual basic
+- lisp
+- fortran
+- elixir
+- deplhi
+- objective-c
+- prolog
+- zig
+- julia
+- haskell
+- scala
+- ocaml
+- clojure
+- f#
+- ml
+- r
+- matlab
+- dart
+- swift
+- java
+- kotlin
+- javascript
+- typescript
+- erlang
+- eiffel
